@@ -1,12 +1,12 @@
-# Chi Telegram Inline Bot
+# NanYang Virus Telegram Inline Bot
 
-在 Telegram 上快速模仿迟先生卖弱。
+在 Telegram 上快速传播南阳病毒。
 
-Telegram: [@realskyzh_bot](https://t.me/realskyzh_bot)
+Telegram: [@realnylsr_bot](https://t.me/realnylsr_bot)
 
-## 卖弱方式
+## 使用方式
 
-在任意聊天窗口输入 @realskyzh_bot 即会随机弹出至多五句卖弱语录，输入文字更可过滤筛选语录，
+在任意聊天窗口输入 @realnylsr_bot 即会随机弹出至多五句南阳病毒语录，输入文字更可过滤筛选语录，
 点击弹出的语录即可自动发出。若语句不令人满意，可以删除整条消息 10s 后重试。
 
 ## 开始上手
@@ -19,5 +19,9 @@ Telegram: [@realskyzh_bot](https://t.me/realskyzh_bot)
 
 ``` shell script
 $ pip install -r requirements.txt
-$ API_TOKEN=<your_token_here> python -m chi_tg_inline_bot.__main__
+$ API_TOKEN=<your_token_here> python -m nanyang_virus_inline_bot.__main__
 ```
+
+## 感谢
+
+本Bot代码完全基于：[Chi-Telegram-Inline-Bot](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot) 
